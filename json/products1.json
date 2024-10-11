@@ -22,5 +22,11 @@
       "price": 200,
       "quantity": "2kg",
       "county ": 1
-  }
+  },
+  {   "name":"coconut",
+  "image": "images/maize.jpeg",
+  "price": 200,
+  "quantity": "2kg",
+  "county ": 1
+}
 ]
