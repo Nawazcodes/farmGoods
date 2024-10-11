@@ -1,0 +1,20 @@
+[
+  {   "name":"wheat",
+      "image": "images/wheat.jpeg",
+      "price": 1000,
+      "quantity": "25kg",
+      "county ": "1"
+  },
+  {   "name":"paddy",
+      "image": "images/rice.jpeg",
+      "price": 2000,
+      "county ": 1,
+      "quantity": "25kg"
+  },
+  {   "name":"maize",
+      "image": "images/maize.jpeg",
+      "price": 2000,
+      "quantity": "25kg",
+      "county ": 1
+  }
+]

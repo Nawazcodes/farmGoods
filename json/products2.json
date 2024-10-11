@@ -1,0 +1,22 @@
+[
+    {   "name":"apple",
+        "image": "images/apples.jpg",
+        "price": 250,
+        "quantity": "2kg"
+    },
+    {   "name":"banana",
+        "image": "images/banana.jpg",
+        "price": 120,
+        "quantity": "1kg"
+    },
+    {   "name":"potato",
+        "image": "images/potato.jpg",
+        "price": 300,
+        "quantity": "2kg"
+    },
+    {   "name":"onion",
+        "image": "images/onion.jpg",
+        "price": 250,
+        "quantity": "2kg"
+    }
+  ]
