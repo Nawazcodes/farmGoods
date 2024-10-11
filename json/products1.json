@@ -16,5 +16,11 @@
       "price": 2000,
       "quantity": "25kg",
       "county ": 1
+  },
+  {   "name":"peas",
+      "image": "images/maize.jpeg",
+      "price": 200,
+      "quantity": "2kg",
+      "county ": 1
   }
 ]
